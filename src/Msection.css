@@ -1,0 +1,9 @@
+  .card__title
+  {
+    background-color: white;
+    color: black;
+  }
+  .card:hover
+  {
+    box-shadow: 5px 5px 5px;
+  }
